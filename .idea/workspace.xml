@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3fcbc510-6066-4f72-a5a0-4dcf5b7d7d9d" name="Changes" comment="Complete Python, Django, Data Science and ML Guide" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Etixi"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="6a089067-7c32-433b-8a40-67793887da3b" />
+        <option name="url" value="git@github.com:Etixi/Complete_Python_Django_Data_Science_And_ML_Guide.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Section11_Strings/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Section12_String_Concatenation/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Section13_Numeric_Types/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Section14_Boolean_Type/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Section16_Lists/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Section18_Tuples/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Section19_Sets/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Section23_Functions/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Section24_Function_Arguments/main1.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Section25_Args_And_Kwargs_In_Functions/main2.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Section25_Args_And_Kwargs_In_Functions/main3.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Section27_DocStrings/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Section27_DocStrings/main2.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Section38_Ternary_Operator/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Section40_While_Loop/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Section40_While_Loop/main3.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Section40_While_Loop/main4.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Section44_Objects_And_Classes/main2.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Section44_Objects_And_Classes/main3.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Section45_Instance_And_Class_Methods/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Section47_Classes_Extension/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Section48_Classes_On_Practice/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Section49_Key_Principles_In_Object_Oriented_Programming/main4.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Section50_Modules/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Section50_Modules/src/other.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Section50_Modules/src/utils.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Section51_Built_In_Modules/readme.md" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Section52_What_is__name___and__main__/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Section52_What_is__name___and__main__/my_package/module_two.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Section53_JavaScript_Object_Notation(JSON)/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Section54_Working_With_Files/main2.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Section54_Working_With_Files/main3.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Section55_Working_With_Zip_Archive/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Section56_Working_With_CSV_Files/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Section57_Working_With_Dates_And_Times/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Section58_Generating_Random_Sequences_And_password/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Section59_Math_Module_And_Recursive_Functions/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Section60_Regular_Expressions/courses/sub.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Section60_Regular_Expressions/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Section61_Sending_Emails/main2.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Section74_Creating_An_API_Django_Application/courses/api/models.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Section75_Managing_Authentification_For_API_Requests/courses/api/models.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Section76_Django_Project_Refactoring_And_Admin_Settings/courses/shop/admin.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2Yd0bORWkHP8O26IvwyZMnxV6C5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.courses.executor&quot;: &quot;Run&quot;,
+    &quot;Python.courses2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.explain.executor&quot;: &quot;Run&quot;,
+    &quot;Python.findall.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (3).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (4).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (5).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main2 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main2 (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main3 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main4 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_two.executor&quot;: &quot;Run&quot;,
+    &quot;Python.other.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pygame-shooter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rectangle (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.search.executor&quot;: &quot;Run&quot;,
+    &quot;Python.split.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.utils.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Complete_Python_Django_Data_Science_And_ML_Guide&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Complete_Python_Django_Data_Science_And_ML_Guide" />
+      <recent name="C:\Complete_Python_Django_Data_Science_And_ML_Guide\Section78_Creating_A_Shooter_Game_With_Pygame" />
+      <recent name="C:\Complete_Python_Django_Data_Science_And_ML_Guide\Section60_Regular_Expressions\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Complete_Python_Django_Data_Science_And_ML_Guide\Section80_Game_Refactoring_Using_Classes_And_OOP\norefactoring" />
+      <recent name="C:\Complete_Python_Django_Data_Science_And_ML_Guide\Section80_Game_Refactoring_Using_Classes_And_OOP\shooter" />
+      <recent name="C:\Complete_Python_Django_Data_Science_And_ML_Guide\Section73_Routing_Between_Pages_In_Django\courses\templates\shop" />
+      <recent name="C:\Complete_Python_Django_Data_Science_And_ML_Guide\Section73_Routing_Between_Pages_In_Django\courses" />
+      <recent name="C:\Complete_Python_Django_Data_Science_And_ML_Guide" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Complete_Python_Django_Data_Science_And_ML_Guide" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section80_Game_Refactoring_Using_Classes_And_OOP/shooter" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section80_Game_Refactoring_Using_Classes_And_OOP/shooter/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Complete_Python_Django_Data_Science_And_ML_Guide" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section78_Creating_A_Shooter_Game_With_Pygame" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section78_Creating_A_Shooter_Game_With_Pygame/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pygame-shooter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Complete_Python_Django_Data_Science_And_ML_Guide" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section78_Creating_A_Shooter_Game_With_Pygame" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section78_Creating_A_Shooter_Game_With_Pygame/pygame-shooter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rectangle (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Complete_Python_Django_Data_Science_And_ML_Guide" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section78_Creating_A_Shooter_Game_With_Pygame" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section78_Creating_A_Shooter_Game_With_Pygame/rectangle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Complete_Python_Django_Data_Science_And_ML_Guide" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section78_Creating_A_Shooter_Game_With_Pygame" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section78_Creating_A_Shooter_Game_With_Pygame/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.pygame-shooter" />
+        <item itemvalue="Python.rectangle (1)" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fcbc510-6066-4f72-a5a0-4dcf5b7d7d9d" name="Changes" comment="" />
+      <created>1700840219771</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700840219771</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Complete Python, Django, Data Science and ML Guide">
+      <option name="closed" value="true" />
+      <created>1704566896410</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704566896411</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Complete Python, Django, Data Science and ML Guide">
+      <option name="closed" value="true" />
+      <created>1704731384774</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704731384774</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Complete Python, Django, Data Science and ML Guide">
+      <option name="closed" value="true" />
+      <created>1704731424295</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704731424295</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Complete Python, Django, Data Science and ML Guide">
+      <option name="closed" value="true" />
+      <created>1704749104724</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704749104724</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Complete Python, Django, Data Science and ML Guide">
+      <option name="closed" value="true" />
+      <created>1704749447914</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1704749447914</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Complete Python, Django, Data Science and ML Guide">
+      <option name="closed" value="true" />
+      <created>1704751730697</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1704751730697</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Complete Python, Django, Data Science and ML Guide" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete Python, Django, Data Science and ML Guide" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Section20_Ranges/main2.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Section36_Unpacking_Dictionaries/main.py</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
