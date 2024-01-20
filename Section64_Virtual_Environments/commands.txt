@@ -1,0 +1,66 @@
+>>> pip list
+>>> pip freeze
+>>> import requests
+>>> print(requests)
+>>> print(dir(requests))
+>>> res = requests.get("https://www.python.org")
+>>> print(res)
+>>> print(res.status_code)
+>>> print(res.text)
+>>> def fib(n):
+>>>     a, b = 0, 1
+>>>     while a &lt; n:
+>>>         print(a, end=' ')
+>>>         a, b = b, a+b
+>>>     print()
+>>> fib(1000)
+
+
+>>> fruits = ['Banana', 'Apple', 'Lime']
+>>> loud_fruits = [fruit.upper() for fruit in fruits]
+>>> print(loud_fruits)
+>>> list(enumerate(fruits))
+>>> 2 ** 3
+>>> 17 / 3
+>>> 17 // 3
+>>> numbers = [2, 4, 6, 8]
+>>> product = 1
+>>> for number in numbers:
+...    product = product * number
+...
+>>> print('The product is:', product)
+>>> print("Hello, I'm Python!")
+>>> name = input('What is your name?\n')
+>>> print(f'Hi, {name}.')
+>>> res = requests.get("https://www.python.org2")
+>>> python3 -m venv venv
+>>> ls
+>>> cd venv
+>>> ls
+>>> pip install --upgrade pip
+>>> pip list
+>>> pip freeze
+>>> pip install request
+>>> pipenv shell
+>>> pip --venv
+>>> pipenv --venv
+>>> pipenv --where
+>>> which python
+>>> pip list
+>>> pipenv graph
+>>> cat Pipfile
+>>> pipenv update
+>>> pipenv update requests
+>>> pipenv update pandas
+>>> nano Pipfile
+>>> cat Pipfile
+>>> pip freeze
+>>> pip --venv
+>>> mkdir .venv
+>>> ls
+>>> ls -la
+>>> pipenv install
+
+
+
+

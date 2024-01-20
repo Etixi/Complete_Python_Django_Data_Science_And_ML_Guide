@@ -1,0 +1,58 @@
+>>> django-admin startproject base .
+>>>  python .\manage.py runserver
+>>> python .\manage.py startapp shop
+>>> python manage.py migrate
+>>> python manage.py createsuperuser
+Username (leave blank to use 'etienne'): admin
+Email address: admin@admin.com
+Password:
+Password (again):
+Error: Blank passwords aren't allowed.
+Password:
+Password (again):
+The password is too similar to the username.
+This password is too short. It must contain at least 8 characters.
+This password is too common.
+Bypass password validation and create user anyway? [y/N]: y
+Superuser created successfully.
+
+>>> python manage.py makemigrations
+>>> python manage.py migrate
+>>> python manage.py makemigrations
+>>> python manage.py migrate
+>>> python manage.py shell
+
+>>> python manage.py shell
+>>> from shop.models import Category
+>>> print(Category)
+>>> Category.objects.all()
+>>> new_category = Category(title='Programming')
+>>> new_category.save()
+>>> Category.objects.all()
+>>> new_category.id
+>>> new_category.title
+>>> new_category.created_at
+>>> Category.objects.get(pk=1)
+>>> Category.objects.get(title='Programming')
+>>> Category.objects.filter(id=1)
+>>> filtered_categories = Category.objects.filter(id=1)
+>>> [category.title for category in filtered_categories]
+>>> filtered_categories = Category.objects.filter(title__contains='ing')
+>>> print(filtered_categories)
+>>> category = Category.objects.get(pk=1)
+>>> print(category)
+>>> category.course_set.all()
+>>> category.course_set.create(title="Complete Python Guide", price=99.99, students_qty=100, reviews_qty=30)
+>>> category.course_set.all()
+>>> category.course_set.create(title="Complete Java Guide", price=150.99, students_qty=70, reviews_qty=25)
+>>> category.course_set.all()
+>>> [course.title for course in category.course_set.all()]
+
+
+>>> python manage.py makemigrations
+>>> python manage.py migrate
+>>> python manage.py startapp api
+
+
+
+http://127.0.0.1:8000/admin/login/
